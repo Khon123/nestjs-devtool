@@ -1,0 +1,10 @@
+{
+  "breadcrumbs.enabled": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  },
+  "editor.rulers": [120],
+  "typescript.preferences.importModuleSpecifier": "shortest"
+}
